@@ -1,9 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-* A simple unchecked nitro generator
-* It's named BNitroGen for Bad Nitro Gen because it's just unchecked
-* It's just useless but i have nothing to do sometimes
+* A simple script to make your files bigger
 -----
 <p align="center"><strong><i>⚠️ To make the program work you need to install this :</i></strong</p>
 <br><br>
