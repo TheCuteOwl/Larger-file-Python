@@ -2,6 +2,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 * A simple script to make your files bigger
+* IT WILL MAKE YOUR PROGRAM SLOWER FOR VERY BIG FILE 
 -----
 <p align="center"><strong><i>⚠️ To make the program work you need to install this :</i></strong</p>
 <br><br>
